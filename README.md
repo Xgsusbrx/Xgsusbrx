@@ -21,6 +21,7 @@ I'm currently learning React and Python, and my goal is to acquire the skills ne
 <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" title="Ruby on Rails" width="36" height="36" />
 </a>
+</p>
 
 
 ### Socials
